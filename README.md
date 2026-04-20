@@ -1,8 +1,5 @@
-# ANPR / License Plate Detection Project
+# License Plate Detection Project
 
-A clean, GitHub-style mini project for **car license plate detection from images and front-camera video**.
-
-This version is designed to be **easy to run locally** and to produce **clear demo results** for a class project.
 
 ## Project Flow
 
